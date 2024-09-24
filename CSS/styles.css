@@ -1,0 +1,77 @@
+.titulo {
+    color: red;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.footer {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+
+.container {
+    border: 2px solid #d3d3d3;
+    border-radius: 20px;
+    border-width: 1.5px;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.userBorder {
+    border: 2px solid #d3d3d3;
+    border-radius: 15px;
+    border-width: 1.5px;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    color: red;
+    text-align: left;
+    line-height: 3;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.passwordBorder {
+    border: 2px solid #d3d3d3;
+    border-radius: 15px;
+    border-width: 1.5px;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    color: red;
+    text-align: left;
+    line-height: 3;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.transparente {
+    border: 2px solid transparent;
+    outline: none;
+    width: 250px;
+    height: 50px;
+}
+
+.acessar {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 23px;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+}
+
+.support {
+    font-family: Arial, sans-serif;
+    color: red;
+    font-size: 15px;
+    margin-left: 80px;
+    margin-right: 100px;
+}
